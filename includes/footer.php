@@ -1,0 +1,1 @@
+<div class="p-3 text-center text-light bg-dark" style="font-size:20px;"><i class="fa-regular fa-copyright"></i> All Rights Reserved by TechMart</div>
